@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="139.66" height="59" viewBox="0 0 139.66 59">
+  <defs>
+    <filter id="Rectangle_650" x="0" y="0" width="139.66" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Best_Choice_Label" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_650)">
+      <rect id="Rectangle_650-2" data-name="Rectangle 650" width="121.66" height="41" rx="2" transform="translate(9 6)" fill="#ec0f43"/>
+    </g>
+    <text id="Best_choice" data-name="Best choice" transform="translate(60.5 27.781)" fill="#fff" font-size="19" font-family="BarlowCondensed-Bold, Barlow Condensed" font-weight="700" letter-spacing="0.009em"><tspan x="-44" y="0">BEST CHOICE</tspan></text>
+  </g>
+</svg>

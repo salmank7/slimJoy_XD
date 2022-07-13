@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="325.738" height="322.247" viewBox="0 0 325.738 322.247">
+  <defs>
+    <filter id="Path_2694" x="0" y="7.327" width="155.172" height="168.92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2694-2" x="170.566" y="7.327" width="155.172" height="168.92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2694-3" x="82.504" y="153.327" width="155.172" height="168.92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Vegan_Gluten_Lactose_Icongroup" transform="translate(-374.756 -1229.762)">
+    <g id="Group_1602" data-name="Group 1602" transform="translate(384.756 1244.234)">
+      <g transform="matrix(1, 0, 0, 1, -10, -14.47)" filter="url(#Path_2694)">
+        <path id="Path_2694-4" data-name="Path 2694" d="M8665.052,552.4v70.515l-67.506,40.29-67.666-40.29V552.4l67.666-37.8Z" transform="translate(-8519.88 -500.12)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_1603" data-name="Group 1603" transform="translate(555.322 1244.234)">
+      <g transform="matrix(1, 0, 0, 1, -180.57, -14.47)" filter="url(#Path_2694-2)">
+        <path id="Path_2694-5" data-name="Path 2694" d="M8665.052,552.4v70.515l-67.506,40.29-67.666-40.29V552.4l67.666-37.8Z" transform="translate(-8349.31 -500.12)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+    <path id="Path_3073" data-name="Path 3073" d="M35.286,56.571C37.134,46.483,38.77,11.857.3.426Z" transform="translate(412.266 1259.289)" fill="#fff"/>
+    <path id="Path_3074" data-name="Path 3074" d="M2.2.431,2.138.415s-14.7,51.406,32.949,60.622Z" transform="translate(410.111 1259.211)" fill="#fff"/>
+    <path id="Path_3075" data-name="Path 3075" d="M52.647.021,52.71,0s16.453,69.408-47.6,78.786Z" transform="translate(447.377 1239.02)" fill="#fff"/>
+    <path id="Path_3076" data-name="Path 3076" d="M5.32,71.8C3.465,58.248,3.465,12.9,55.44.01Z" transform="translate(444.23 1239.113)" fill="#fff"/>
+    <text id="GLUTEN_FREE" data-name="GLUTEN
+FREE" transform="translate(552.979 1329.674)" fill="#fff" font-size="19" font-family="BarlowCondensed-Bold, Barlow Condensed" font-weight="700" letter-spacing="0.02em"><tspan x="-27" y="19">GLUTEN</tspan><tspan x="-17" y="38">FREE</tspan></text>
+    <text id="VEGAN" transform="translate(384.756 1332.666)" fill="#fff" font-size="22" font-family="BarlowCondensed-Bold, Barlow Condensed" font-weight="700" letter-spacing="0.02em"><tspan x="-27" y="22">VEGAN</tspan></text>
+    <g id="Group_1604" data-name="Group 1604" transform="translate(598.598 1229.762)">
+      <path id="Path_2572" data-name="Path 2572" d="M8469.831,2861.52s-.026,11.126,5.554,16.737,16.765,5.708,16.765,5.708-.212-11.679-5.791-17.291S8469.831,2861.52,8469.831,2861.52Z" transform="translate(-8469.831 -2788.163)" fill="#fff"/>
+      <path id="Path_2573" data-name="Path 2573" d="M8469.831,2861.52s-.026,11.126,5.554,16.737,16.765,5.708,16.765,5.708-.212-11.679-5.791-17.291S8469.831,2861.52,8469.831,2861.52Z" transform="translate(-8469.831 -2810.616)" fill="#fff"/>
+      <path id="Path_2574" data-name="Path 2574" d="M8469.831,2861.52s-.026,11.126,5.554,16.737,16.765,5.708,16.765,5.708-.212-11.679-5.791-17.291S8469.831,2861.52,8469.831,2861.52Z" transform="translate(-8469.831 -2833.762)" fill="#fff"/>
+      <path id="Path_2575" data-name="Path 2575" d="M0,.009S-.026,11.135,5.554,16.746s16.765,5.708,16.765,5.708-.212-11.679-5.791-17.29S0,.009,0,.009Z" transform="translate(23.832 0) rotate(45)" fill="#fff"/>
+      <path id="Path_2576" data-name="Path 2576" d="M8492.148,2861.52s.027,11.126-5.553,16.737-16.767,5.708-16.767,5.708.212-11.679,5.792-17.291S8492.148,2861.52,8492.148,2861.52Z" transform="translate(-8443.526 -2788.163)" fill="#fff"/>
+      <path id="Path_2577" data-name="Path 2577" d="M8492.148,2861.52s.027,11.126-5.553,16.737-16.767,5.708-16.767,5.708.212-11.679,5.792-17.291S8492.148,2861.52,8492.148,2861.52Z" transform="translate(-8443.526 -2810.616)" fill="#fff"/>
+      <path id="Path_2578" data-name="Path 2578" d="M8492.148,2861.52s.027,11.126-5.553,16.737-16.767,5.708-16.767,5.708.212-11.679,5.792-17.291S8492.148,2861.52,8492.148,2861.52Z" transform="translate(-8443.526 -2833.762)" fill="#fff"/>
+    </g>
+    <g id="Group_1605" data-name="Group 1605" transform="translate(467.26 1390.234)">
+      <g transform="matrix(1, 0, 0, 1, -92.5, -160.47)" filter="url(#Path_2694-3)">
+        <path id="Path_2694-6" data-name="Path 2694" d="M8665.052,552.4v70.515l-67.506,40.29-67.666-40.29V552.4l67.666-37.8Z" transform="translate(-8437.38 -354.12)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+    <text id="LACTOSE_FREE" data-name="LACTOSE
+FREE" transform="translate(530.881 1492.248)" fill="#fff" font-size="19" font-family="BarlowCondensed-Bold, Barlow Condensed" font-weight="700" letter-spacing="0.02em"><tspan x="-31" y="0">LACTOSE</tspan><tspan x="-17" y="18">FREE</tspan></text>
+    <path id="Path_3077" data-name="Path 3077" d="M8215.514,2972.157a1.144,1.144,0,0,1,.818-.279h18.646a1.146,1.146,0,0,1,.8.221,1.513,1.513,0,0,1,.285.864v6.313a1.907,1.907,0,0,1-.18.842,2.5,2.5,0,0,1-.614.711l-1.034.743s-.162,3.52,0,5.447,6.538,12.8,7.821,16.14,0,47.348,0,47.348a8.626,8.626,0,0,1-1.225,3.893,7.093,7.093,0,0,1-3.146,2.2h-24.18a4.181,4.181,0,0,1-2.39-1.446,11.259,11.259,0,0,1-1.571-3.479s-.6-45.469,0-48.511,7.379-14.157,7.474-16.14,0-5.447,0-5.447l-1.174-1.237a2.983,2.983,0,0,1-.474-.8,4.042,4.042,0,0,1-.2-1v-5.394A1.96,1.96,0,0,1,8215.514,2972.157Z" transform="translate(-7691.107 -1588.875)" fill="#fff"/>
+  </g>
+</svg>

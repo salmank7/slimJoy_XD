@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1924.957" height="3380.118" viewBox="0 0 1924.957 3380.118">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.666" r="0.594" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d82d48"/>
+      <stop offset="1" stop-color="#6c1724"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.856" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#030812"/>
+      <stop offset="0.027" stop-color="#12192c"/>
+      <stop offset="1" stop-color="#30416e"/>
+    </linearGradient>
+  </defs>
+  <g id="Background_3" transform="translate(4.957 -4669.089)">
+    <path id="Path_2987" data-name="Path 2987" d="M0,0H1920l-1.2,1664.684s-478.353,73.148-959.292,73.148S-4.957,1664.684-4.957,1664.684Z" transform="translate(0 6311.375)" fill="url(#radial-gradient)"/>
+    <path id="Path_2986" data-name="Path 2986" d="M1921,2326.931H0L-2.24,451.663H1920.795Z" transform="translate(-1 4217.426)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

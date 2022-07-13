@@ -1,0 +1,13 @@
+<svg id="Lactose_icon_small" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.293" height="46.968" viewBox="0 0 27.293 46.968">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_646" data-name="Rectangle 646" width="27.293" height="46.968" fill="none" stroke="#75ab18" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1012" data-name="Group 1012" clip-path="url(#clip-path)">
+    <path id="Path_2535" data-name="Path 2535" d="M7.931,6.675C7.648,5.91,6.386,2.621,5.375,1.931a2.479,2.479,0,1,0-2.794,4.1C3.592,6.717,7.115,6.691,7.931,6.675Z" transform="translate(0.408 0.408)" fill="none" stroke="#75ab18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2536" data-name="Path 2536" d="M28.478,47.69,26.65,74.032a3.909,3.909,0,0,1-3.9,3.639H11.63a3.909,3.909,0,0,1-3.9-3.639L5.9,47.69H20.7" transform="translate(-4.104 -33.159)" fill="none" stroke="#75ab18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2537" data-name="Path 2537" d="M16.112,21.345a2.394,2.394,0,0,1-.235-1.881,2.146,2.146,0,0,1,.972-1.229,2.115,2.115,0,0,1,1.145-.241c.91.049,1.353.554,2.676,1.453a6.922,6.922,0,0,0,2.5,1.337,2.578,2.578,0,0,0,2.52-.566c.739-.8.833-2.2.274-2.7-.373-.332-.747-.006-1.674-.294-3.329-1.035-1.478-5.209,1.587-4.7a4.269,4.269,0,0,1,3.185,3.349c.376,1.92-.982,3.4-.116,4.389a1.447,1.447,0,0,0,1.047.494,1.392,1.392,0,0,0,1.117-.764c.3-.571-.045-.935,0-1.764a3.015,3.015,0,0,1,1.058-2.176,2.467,2.467,0,0,1,3.018.168,2.514,2.514,0,0,1,.452,2.6,6.884,6.884,0,0,1-.488.963,2.443,2.443,0,0,0-.164,2.147,3.932,3.932,0,0,1,.361,1.284H32.33" transform="translate(-10.969 -8.68)" fill="none" stroke="#75ab18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2538" data-name="Path 2538" d="M8.867,66.12a5.2,5.2,0,0,1,1.277-4.038,5.552,5.552,0,0,1,5.6-.924c1.094.414,1.487,1.024,2.946,1.271A4.3,4.3,0,0,0,21,62.313a4.2,4.2,0,0,0,2.2-2.022,5.434,5.434,0,0,0-1.1-5.777" transform="translate(-6.15 -37.904)" fill="none" stroke="#75ab18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
